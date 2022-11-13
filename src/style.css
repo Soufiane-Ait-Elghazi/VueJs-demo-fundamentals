@@ -1,0 +1,12 @@
+body{
+    font-family: "HoloLens MDL2 Assets" !important;
+    background-color: #f0fdf0 !important;
+}
+.contact-img{
+    width: 140px;
+    border-radius: 50%;
+}
+.edit-img{
+    width: 200px;
+    border-radius: 50%;
+}
